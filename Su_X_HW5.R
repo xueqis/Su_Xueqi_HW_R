@@ -1,8 +1,8 @@
----
-title: "Su_X_HW5"
-author: "Xueqi Su"
-output: pdf_document
----
+##Prof G - ---
+##Prof G - title: "Su_X_HW5"
+##Prof G - author: "Xueqi Su"
+##Prof G - output: pdf_document
+##Prof G - ---
 #MATH 510
 #HW5
 
@@ -54,6 +54,7 @@ types(mydata)
 
 #5.Write	code that	will loop	through	any	dataframe	and	calculate	the	mean of	every	numeric	column. Label	the	output with	the	name of	the	column.
 
+##Prof G - This doesn't work.
 #Method 1 
 colmean <- function(data.frame){
   #define a function that accepts dataframe as parameter
